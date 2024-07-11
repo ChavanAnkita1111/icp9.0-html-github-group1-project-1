@@ -26,8 +26,6 @@ An "About" page on a pizza house website typically provides detailed information
 ![Home page1](services1.png)
 Creating a "Services" page for a pizza house involves detailing the different services the restaurant offers to its customers. This page should clearly communicate the variety of services available, such as dine-in, delivery, catering, and any special offerings. 
 
-[Visit GitHUb Repo](https://github.com/Payal267/icp9.0-html-github-group1-project-1.git)
-
 [Visit Project Website](https://icp9-0-html-github-group1-project.vercel.app/)
 
 THANKYOU..😇
